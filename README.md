@@ -10,7 +10,7 @@ A curated list of Vietnamese rude, offensive, and profane words.
 ## Usage
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/vietnamese-rude-words.git
+git clone https://github.com/darktheopest/vietnamese-rude-words.git
 ```
 Use the word list in your project as needed.
 
